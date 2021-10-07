@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-This is fully responsive website, Dolla. 
+This is fully responsive website, Dolla.
 
 ## Build with ⚙️
 
@@ -14,4 +14,4 @@ This project is built with ReactJS. React Router, styled-components and React Sc
 
 ## Link 🔗
 
-[Click Me!](https://ultra-services.netlify.app/)
+[Click Me!](https://dolla-vbanking.netlify.app/)
